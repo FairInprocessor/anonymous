@@ -1,8 +1,4 @@
-<h1> This repository contains "FairInprocessor: Addressing Fairness–Performance Trade-off via Situation Testing and Pareto Optimization" replicate package. </h1>  
------------------------------------------------------
-<!-- <h2> Code </h2>
-
-
+<h2> This repository contains "FairInprocessor: Addressing Fairness–Performance Trade-off via Situation Testing and Pareto Optimization" replicate package. </h2>  
 -----------------------------------------------------
 
 <h2> Baselines </h2>
